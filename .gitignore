@@ -1,0 +1,16 @@
+# Virtual Environment
+face_env/
+
+# Python Cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# IDE Configs
+.vscode/
+.idea/
+
+# System Files
+.DS_Store
+Thumbs.db
